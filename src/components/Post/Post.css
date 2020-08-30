@@ -1,0 +1,14 @@
+.post {
+  display: flex;
+  flex-direction: column;
+}
+
+.post__top {
+  display: flex;
+  width: 100%;
+}
+
+.post__top > p > h2 {
+  color: #1f2fff;
+  text-transform: uppercase;
+}
